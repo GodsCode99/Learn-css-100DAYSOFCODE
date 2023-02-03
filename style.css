@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: rgb(207, 218, 67);
+}
+.container {
+	border: 2px dashed red;
+	font-size: 1.5rem;
+	margin: 1.5em;
+	/* margin-top: 1.5em;
+	margin-right: 2em;
+	margin-bottom: 2em;
+	margin-left: 2em; */
+	padding: 1.5em;
+}
+
+.header {
+	margin: 0px;
+	padding: 0px;
+	border: 2px dashed rgb(140, 199, 140);
+}
